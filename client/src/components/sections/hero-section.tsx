@@ -36,8 +36,9 @@ export function HeroSection() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-4xl sm:text-6xl lg:text-7xl font-bold"
             >
-              <span className="block text-foreground">Hi, I'm</span>
+
               <span className="block text-white font-extrabold drop-shadow-2xl" style={{textShadow: '0 0 30px rgba(59, 130, 246, 0.8), 0 0 60px rgba(168, 85, 247, 0.4)'}}>
+                Hi, I'm
                 K. Nikshith
               </span>
             </motion.h1>
@@ -57,7 +58,7 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed"
           >
-            I'm a 2nd year engineering student passionate about building robust Java backend systems and exploring AI/ML solutions. 
+            I'm a 3rd year engineering student passionate about building robust Java backend systems and exploring AI/ML solutions. 
             From complete management systems to interactive web applications, I love turning ideas into working software.
           </motion.p>
           
