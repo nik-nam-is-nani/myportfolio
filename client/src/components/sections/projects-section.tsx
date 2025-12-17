@@ -40,6 +40,21 @@ const projects: Project[] = [
     colors: ["primary", "secondary", "accent", "primary"],
     githubUrl: "https://github.com/nik-nam-is-nani",
     demoUrl: "#"
+  },
+  {
+    title: "CARLA Self-Driving Car Simulation",
+    description: "Advanced autonomous driving simulation built on CARLA. Uses CNN-based steering (NVIDIA model), Faster R-CNN traffic-light detection, LiDAR obstacle avoidance, semantic segmentation recovery, and GPU-accelerated inference with real-time route planning.",
+    image: "https://www.cogitotech.com/wp-content/uploads/2020/08/lidar-in-self-driving-cars-1080x6751626616413-1.jpg",
+    technologies: [
+      "Python",
+      "CARLA Simulator",
+      "PyTorch",
+      "Faster R-CNN",
+      "LiDAR"
+    ],
+    colors: ["primary", "secondary", "accent", "primary", "secondary"],
+    githubUrl: "https://github.com/nik-nam-is-nani",
+    demoUrl: "#"
   }
 ];
 
