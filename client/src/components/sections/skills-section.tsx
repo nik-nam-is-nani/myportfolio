@@ -15,7 +15,8 @@ const technicalSkills: Skill[] = [
   { name: "Backend Development", percentage: 80, color: "secondary" },
   { name: "Database Management", percentage: 75, color: "accent" },
   { name: "Python & AI/ML", percentage: 70, color: "primary" },
-  { name: "Frontend Development", percentage: 65, color: "secondary" },
+  { name: "Frontend Development", percentage: 96, color: "secondary" },
+  
 ];
 
 const certifications = [
