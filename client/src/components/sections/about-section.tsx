@@ -13,7 +13,7 @@ export function AboutSection() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A passionate 2nd year engineering student exploring backend development and AI/ML technologies
+            A passionate 3rd year engineering student exploring backend development and AI/ML technologies
           </p>
         </motion.div>
         
@@ -51,11 +51,11 @@ export function AboutSection() {
               className="grid grid-cols-2 gap-4 pt-6"
             >
               <div className="text-center p-4 bg-card border border-border rounded-lg">
-                <div className="text-2xl font-bold text-primary" data-testid="text-projects-count">10+</div>
+                <div className="text-2xl font-bold text-primary" data-testid="text-projects-count">6+</div>
                 <div className="text-sm text-muted-foreground">Projects Built</div>
               </div>
               <div className="text-center p-4 bg-card border border-border rounded-lg">
-                <div className="text-2xl font-bold text-secondary" data-testid="text-experience-years">2nd</div>
+                <div className="text-2xl font-bold text-secondary" data-testid="text-experience-years">3rd</div>
                 <div className="text-sm text-muted-foreground">Year Student</div>
               </div>
             </motion.div>
