@@ -55,7 +55,22 @@ const projects: Project[] = [
     colors: ["primary", "secondary", "accent", "primary", "secondary"],
     githubUrl: "https://github.com/nik-nam-is-nani/car_simulation_carla",
     demoUrl: "#"
-  }
+  },{
+  title: "Data Analyser",
+  description: "Python-based data analysis project focused on extracting insights from datasets using statistical analysis and visualizations. Includes data cleaning, preprocessing, exploratory data analysis (EDA), and meaningful graphical representations.",
+  image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&h=400",
+  technologies: [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  colors: ["primary", "secondary", "accent", "primary"],
+  githubUrl: "https://github.com/nik-nam-is-nani/data_analyser",
+  demoUrl: "#"
+}
+
 ];
 
 export function ProjectsSection() {
