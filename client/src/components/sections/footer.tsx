@@ -16,7 +16,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-foreground">K. Nikshith</h3>
             <p className="text-muted-foreground">
-              Aspiring Backend Developer & AI/ML Enthusiast, 2nd year engineering student 
+              Aspiring Backend Developer & AI/ML Enthusiast, 3rd year engineering student 
               passionate about creating innovative software solutions.
             </p>
           </div>
@@ -66,14 +66,14 @@ export function Footer() {
                 <SiGithub className="h-5 w-5" />
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/k-nikshith-b4b8b42ba/" 
                 className="text-muted-foreground hover:text-primary transition-colors"
                 data-testid="link-footer-linkedin"
               >
                 <SiLinkedin className="h-5 w-5" />
               </a>
               <a 
-                href="mailto:contact@developer.com" 
+                href="mailto:nikshithkyathrigi2005@gmail.com" 
                 className="text-muted-foreground hover:text-primary transition-colors"
                 data-testid="link-footer-email"
               >
