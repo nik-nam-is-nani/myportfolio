@@ -53,7 +53,7 @@ const projects: Project[] = [
       "LiDAR"
     ],
     colors: ["primary", "secondary", "accent", "primary", "secondary"],
-    githubUrl: "https://github.com/nik-nam-is-nani",
+    githubUrl: "https://github.com/nik-nam-is-nani/car_simulation_carla",
     demoUrl: "#"
   }
 ];
