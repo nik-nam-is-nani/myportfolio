@@ -56,7 +56,7 @@ export function ContactSection() {
     {
       icon: Mail,
       title: "Email",
-      value: "nikshith@example.com",
+      value: "nikshithkyathrigi2005@gmail.com",
       color: "bg-primary/20 text-primary"
     },
     {
