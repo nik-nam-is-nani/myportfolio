@@ -28,7 +28,7 @@ export function AboutSection() {
             <div className="space-y-4">
               <h3 className="text-2xl font-semibold text-foreground">Java Backend Enthusiast</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Currently in my 2nd year of engineering (Roll No: 23ATA31092), I love building projects that connect 
+                Currently in my 3rd year of engineering (Roll No: 23ATA31092), I love building projects that connect 
                 strong Java backends with smooth frontends. I've worked on complete management systems with Oracle DB 
                 integration and modern web applications with user authentication and database management.
               </p>
@@ -37,9 +37,7 @@ export function AboutSection() {
             <div className="space-y-4">
               <h3 className="text-2xl font-semibold text-foreground">AI & Machine Learning Explorer</h3>
               <p className="text-muted-foreground leading-relaxed">
-                I'm fascinated by AI-powered solutions and enjoy experimenting with computer vision, generative AI, 
-                and innovative projects like Face Recognition Attendance Systems and AI Drones. I love solving problems 
-                and turning raw ideas into working, user-friendly applications.
+I’m passionate about AI-powered autonomous driving and love building realistic car simulation systems. My work focuses on self-driving vehicle simulation, camera-based perception, sensor fusion, and intelligent control logic. I enjoy tackling real-world driving challenges and turning experimental ideas into smooth, high-performance simulation experiences.
               </p>
             </div>
             
